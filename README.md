@@ -10,4 +10,4 @@ Focus:
 - GlitchLabs
   
 Daily progress on cyber-ai-roadmap repo
-(Not there now lol)
+Not fully there yet lol.

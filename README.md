@@ -1,21 +1,13 @@
-Slava — Cybersecurity / AI
+Slava — CyberSec / CloudInfra / GlitchLabs
 
 Currently building:
-- Incident Report Project
-- Basic VM Home Lab setup
-- AI log triage assistant
+- GlitchLabs
 
 Ideas for later:
-- SOC detection lab
-- Mini Windows IR lab
-- Network Exposure / Recon Lab
-- Zeek PCAB Lab
-- Remediation Playbook Pack
+- GlitchLabs
 
 Focus:
-- Networking
-- SOC
-- SIEM
-- AI Integration
-
+- GlitchLabs
+  
 Daily progress on cyber-ai-roadmap repo
+(Not there now lol)
